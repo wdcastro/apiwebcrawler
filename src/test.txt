@@ -1,0 +1,4 @@
+Client Name, Client Address,onnet,offnet,offnetLowSpeed,offnetHighSpeed,nbn,nbnFttp,nbnFttn,nbnFttb,nbnWireless,nbnHfc,nbnSatellite,vdsl2,nakedDsl,hfc,ftth,fttbWholesale,
+"ausnet","254 Scarborough Beach Road, DOUBLEVIEW  WA  6018",false,false,false,false,true,false,true,false,false,false,false,false,false,false,false,false,
+"william","4 Moreau Drive, ELLENBROOK  WA  6069",true,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,
+"qbit","Northlands Commercial Centre, Unit 16  386 Wanneroo Road, WESTMINSTER  WA  6061",true,false,false,false,false,false,false,false,false,false,false,false,true,false,false,false,
